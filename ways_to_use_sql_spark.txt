@@ -1,4 +1,5 @@
 Here are the ways to use SQL in PySpark:
+
 Methods
 Temporary View
 Create a temporary view from a DataFrame.
